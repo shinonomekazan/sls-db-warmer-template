@@ -3,7 +3,6 @@ Template for Serverless Framework project of scheduled lambdas to warm Aurora Se
 
 ## Usage
 
-
 ### 1. Install depenencies
 
 ```
