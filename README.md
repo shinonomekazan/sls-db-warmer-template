@@ -19,6 +19,8 @@ npm i
 
 ### 4. Set schedule in `./serverless-settings/schedules.yml`
 
+- Unless settings in this file are changed, by default the function will run every minute.
+
 ### 5. Run locally
 
 ```
